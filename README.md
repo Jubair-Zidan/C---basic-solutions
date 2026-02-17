@@ -23,7 +23,7 @@ This repository contains solutions to important and commonly practiced basic pro
 - All the file names are chosen according to the problem name, making the repository easy to read<br>
 
 <h2>Purpose of this project</h2>
-<b>The aim of this repository is to:</b>
+<b>The aim of this repository is to:</b><br>
 - Build strong programming fundamentals<br>
 - Improve problem-solving skills<br>
 - Practice basic algorithms and logic building<br>
