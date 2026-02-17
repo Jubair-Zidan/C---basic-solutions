@@ -1,12 +1,10 @@
 <h2>About the repository</h2>
 <p>This repository contains solutions to important and commonly practiced basic programming problems. These problems are solved to improve logical thinking, problem-solving ability, and fundamental programming concepts. It is mainly created for practice and learning purposes.</p>
-<br>
-<br>
+
 <h3>Technologies used</h3>
 <p>Basic programming concepts</p>
 <p>Language used: **C**</p>
-<br>
-<br>
+
 <h3>Prolem covered</h3>
 <p>Calculator</p>
 <p>Fibonacci series</p>
