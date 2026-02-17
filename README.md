@@ -6,17 +6,17 @@ This repository contains solutions to important and commonly practiced basic pro
 - Language used: <b>C</b>
 
 <h2>Prolem covered</h2>
-- Calculator<hr>
-- Fibonacci series<hr>
-- Leap year<hr>
-- Multiplication<hr>
-- Palindrome<hr>
-- Perfect number<hr>
-- Prime number<hr>
-- Patterns<hr>
-- Reverse number<hr>
-- Sum of digits<hr>
-- Swaping<hr>
+- Calculator
+- Fibonacci series
+- Leap year
+- Multiplication
+- Palindrome
+- Perfect number
+- Prime number
+- Patterns
+- Reverse number
+- Sum of digits
+- Swaping
 
 <h2>File structure</h2>
 - Each file contains one specific problem solution<hr>
