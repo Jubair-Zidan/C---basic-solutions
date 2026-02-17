@@ -5,7 +5,7 @@ This repository contains solutions to important and commonly practiced basic pro
 - Basic programming concepts<br>
 - Language used: <b>C</b>
 
-<h2>Prolem covered</h2>
+<h2>Problem covered</h2>
 - Calculator<br>
 - Fibonacci series<br>
 - Leap year<br>
